@@ -1,0 +1,13 @@
+c:\users\dell-pc\documents\visual studio 2015\Projects\WeatherBroadcasterProjectFsharp\WeatherBroadcasterProjectFsharp\bin\Debug\WeatherBroadcasterProjectFsharp.exe.config
+c:\users\dell-pc\documents\visual studio 2015\Projects\WeatherBroadcasterProjectFsharp\WeatherBroadcasterProjectFsharp\bin\Debug\WeatherBroadcasterProjectFsharp.XML
+c:\users\dell-pc\documents\visual studio 2015\Projects\WeatherBroadcasterProjectFsharp\WeatherBroadcasterProjectFsharp\bin\Debug\WeatherBroadcasterProjectFsharp.exe
+c:\users\dell-pc\documents\visual studio 2015\Projects\WeatherBroadcasterProjectFsharp\WeatherBroadcasterProjectFsharp\bin\Debug\WeatherBroadcasterProjectFsharp.pdb
+c:\users\dell-pc\documents\visual studio 2015\Projects\WeatherBroadcasterProjectFsharp\WeatherBroadcasterProjectFsharp\bin\Debug\FSharp.Core.dll
+c:\users\dell-pc\documents\visual studio 2015\Projects\WeatherBroadcasterProjectFsharp\WeatherBroadcasterProjectFsharp\bin\Debug\FSharp.Core.xml
+c:\users\dell-pc\documents\visual studio 2015\Projects\WeatherBroadcasterProjectFsharp\WeatherBroadcasterProjectFsharp\obj\Debug\WeatherBroadcasterProjectFsharp.exe
+c:\users\dell-pc\documents\visual studio 2015\Projects\WeatherBroadcasterProjectFsharp\WeatherBroadcasterProjectFsharp\obj\Debug\WeatherBroadcasterProjectFsharp.pdb
+c:\users\dell-pc\documents\visual studio 2015\Projects\WeatherBroadcasterProjectFsharp\WeatherBroadcasterProjectFsharp\bin\Debug\FSharp.Data.dll
+c:\users\dell-pc\documents\visual studio 2015\Projects\WeatherBroadcasterProjectFsharp\WeatherBroadcasterProjectFsharp\bin\Debug\FSharp.Data.pdb
+c:\users\dell-pc\documents\visual studio 2015\Projects\WeatherBroadcasterProjectFsharp\WeatherBroadcasterProjectFsharp\bin\Debug\FSharp.Data.xml
+c:\users\dell-pc\documents\visual studio 2015\Projects\WeatherBroadcasterProjectFsharp\WeatherBroadcasterProjectFsharp\obj\Debug\WeatherBroadcasterProjectFsharp.fsproj.WeatherBroadcasterProjectFsharp.exe.config
+C:\Users\Dell-PC\documents\visual studio 2015\Projects\WeatherBroadcasterProjectFsharp\WeatherBroadcasterProjectFsharp\bin\Debug\FSharp.Data.TypeProviders.dll

@@ -1,0 +1,40 @@
+﻿{
+  "coord": {
+    "lon": -0.13,
+    "lat": 51.51
+  },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 11.17,
+    "pressure": 1018,
+    "humidity": 76,
+    "temp_min": 9,
+    "temp_max": 13
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 10.3,
+    "deg": 70
+  },
+  "clouds": { "all": 90 },
+  "dt": 1494006600,
+  "sys": {
+    "type": 1,
+    "id": 5091,
+    "message": 0.0082,
+    "country": "GB",
+    "sunrise": 1493958212,
+    "sunset": 1494012708
+  },
+  "id": 2643743,
+  "name": "error",
+  "cod": 200
+}
